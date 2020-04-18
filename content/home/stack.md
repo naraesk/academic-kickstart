@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 102  # Order that this section will appear.
+weight = 101  # Order that this section will appear.
 
-title = "Skills"
+title = "Tech Stack"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -14,34 +14,48 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 [[feature]]
-  icon = "users"
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  
+[[feature]]
+  icon = "code"
   icon_pack = "fas"
-  name = "Domain Driven Design"
+  name = "C++"
+  
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
 
 [[feature]]
-  icon = "clipboard-list"
+  icon = "database"
   icon_pack = "fas"
-  name = "Scrum"
+  name = "neo4j"
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Qt"
         
 [[feature]]
-  icon = "check-double"
-  icon_pack = "fas"
-  name = "Test Driven Development"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
         
 [[feature]]
-  icon = "hands-helping"
-  icon_pack = "fas"
-  name = "Leadership"
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML & CSS"
         
 [[feature]]
-  icon = "user-friends"
-  icon_pack = "fas"
-  name = "Mentoring"
-        
-[[feature]]
-  icon = "running"
-  icon_pack = "fas"
-  name = "Batminton"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
 
 +++
-
