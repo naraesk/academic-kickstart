@@ -15,10 +15,10 @@ header:
 ### Information in accordance with Section 5 TMG
 
 David Baum  
-Aurelienstraße 40  
-04177 Leipzig  
-Germany  
-david.baum@naraesk.eu
+Zvěřinova 3452/1  
+13 000 Praha 3  
+Czech Republic  
+{{< cloakemail address="impressum@naraesk.eu" >}}
 
 ### Disclaimer
 #### Accountability for content
